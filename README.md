@@ -1,0 +1,2 @@
+# statics
+hadoop-study
